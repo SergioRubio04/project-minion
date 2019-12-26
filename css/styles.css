@@ -1,0 +1,12 @@
+h1{text-align:center; 
+background-color: rgb(217, 255, 0);}
+.subtitulo
+{border: solid 2px;
+font-family: Arial;}
+body{background: rgb(255, 0, 0);}
+h3{text-align: center;
+background-color: rgb(217, 255, 0);}
+p {
+    font-family: verdana;
+    font-size: 20px;}
+.fondo{background-image: url(https://www.muycomputerpro.com/wp-content/uploads/2018/09/trace-3157431_1280.jpg);}
